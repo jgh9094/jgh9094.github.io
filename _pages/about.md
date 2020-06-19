@@ -1,23 +1,34 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Jose Guadalupe </strong> Hernandez
+description: '<a href="">Michigan State University</a> | PhD Student with Dr. Charles Ofria | he, him, his '
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>MSU - BEACON Center</p>
+    <p>Biomedical and Physical Sciences Building </p>
+    <p>567 Wilson Road Room 1455 </p>
+    <p>East Lansing, MI 48824</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a first-generation Latino doctoral student at working with Dr. Charles Ofria in the [Digital Evolution Laboratory](https://devolab.org/) at [Michigan State University](https://msu.edu/)
+  in the departments of [Computer Science and Engineering](http://cse.msu.edu/)
+  and [Ecology, Evolutionary Biology, & Behavior](https://eebb.natsci.msu.edu/),
+  and I am a member of the [BEACON Center for the Study of Evolution in Action](https://beacon-center.org/).
+I completed both my bachelor’s degree in Computer Science with a minor in Mathematics in 2017 and master’s degree in Computer Science in 2019 at [Michigan State University](https://msu.edu/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I grew up in Fresno, California then moved to East Lansing, Michigan to begin my journey on becoming a Computer Science college graduate.
+At a young age I had no knowledge of college, but was fortunate to be introduced to the college preparation program [AVID]( https://www.avid.org/).
+My aspirations to become a Spartan would come from a self-assessment quiz to discover colleges and majors.
+The notion that my life could change for the better inspired me to want to become the first college graduate in my family.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My journey to becoming a computer science college graduate inspired me to become a professor who conducts novel research, emboldens future scholars, and creates a truly inclusive environment that will nurture students most at-risk of dropping out.
+The support I have received from amazing friends, mentors, and teachers also does not go unnoticed, thank you all so much!
+
+

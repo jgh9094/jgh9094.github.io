@@ -1,20 +1,19 @@
 ---
 layout: page
 permalink: /research/
-title: professional-cv
+title: resume
 description:
 ---
 
 ---
 <h1 style="text-align: center;"><font size="+3"> Jose Guadalupe Hernandez </font></h1>
-<p style="text-align: center;">jgh9094@gmail.com | linkedin.com/in/jgh9094</p>
+<p style="text-align: center;">jgh9094@gmail.com | linkedin.com/in/jgh9094 | github.com/jgh9094</p>
 ---
 
 Background
 ---------
 
 #### Data enthusiast with a strong background in math, science and programming.
-###### [ [sdwtelle.github.io](http://sdsawtelle.github.io) ] . [ sonya.sawtelle@yale.edu ] . [ 802 461 3429 ]
 ---
 
 Education
