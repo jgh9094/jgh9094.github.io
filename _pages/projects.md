@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: research
+permalink: /research/
 description: A growing collection of research projects that I have or are currently working on.
 ---
 
@@ -13,9 +13,9 @@ When we go outside and see all the complex life in nature currently, it can be e
 Organisms on this evolutionary journey constantly faced new challenges that appeared, and evolution played an important role in an organisms’ ability to overcome these challenges and perform complex tasks.
 So, it would seem that evolution would be a useful framework to incorporate within technology.
 
-My research interests fall at the intersection of computer science and biological evolution --- Evolutionary Computation.
-I am interested in discovering the many strengths and weaknesses behind different evolutionary algorithms.
-Understanding these strengths and weaknesses can lead to the discovery of more robust evolutionary algorithms and a set of rules that different techniques maintain.
+My research interests fall at the intersection of computer science and biological evolution --- evolutionary computation.
+I am interested in discovering the many strengths, weaknesses, and capabilities for different evolutionary algorithms.
+Understanding these different categories can lead to the discovery of more robust evolutionary algorithms and a set of rules that different techniques maintain.
 I am also interested in exploring if evolution has the ability to develop more robust evolutionary algorithms, as evolution tends to discover solutions that are unintuitive to human designers.
 
 #### Jump To
@@ -28,6 +28,13 @@ I am also interested in exploring if evolution has the ability to develop more r
 The field of evolutionary computation consists of a set of algorithms that takes inspiration from different aspects of biological evolution.
 Algorithms that fall under evolutionary computation explore and answer different kinds questions: from exploring and modeling phenomena seen in nature, to solving complex engineering problems that exist in the world.
 There exists a subset of algorithms within the field of evolutionary computation that focus on solving optimization problems --- evolutionary algorithms.
+
+<div class="img_row">
+  <img class="col two" src="{{ site.baseurl }}/assets/img/ssd.jpg" style="display: block; margin-left: auto; margin-right: auto; border: 7px solid #ddd; border-radius: 4px; ">
+</div>
+<div class="col three caption">
+  In this project we focus on creating a conceptual framework to describe major components within a selection scheme.
+</div>
 
 Evolutionary algorithms are probabilistic search algorithms where evolutionary processes are used sample the space of possible solutions.
 At any point in time, the set of candidate solutions under consideration is regarded as the population.
@@ -49,9 +56,16 @@ The optimization problems that evolutionary algorithms attempt to solve possess 
 Unfortunately, there is no way to guarantee that an evolutionary algorithm can produce an optimal solution for a given optimization problem.
 This can happen due to the complex nature of the optimization problem or an evolutionary algorithms design does not allow it to.
 
-An evolutionary algorithm has a number of working components when attempting to solve an optimization problem, and each component has an impact on whether or not optimal solution being discovered.
+Every evolutionary algorithm has a number of working components when attempting to solve an optimization problem, and each component has an impact on whether or not optimal solution being discovered.
 This can make it difficult to understand the impact of each component has on an evolutionary algorithms’ performance.
 In this work, the selection scheme is isolated to better understand its strengths and weaknesses.
+
+<div class="img_row">
+  <img class="col two" src="{{ site.baseurl }}/assets/img/ssc.jpg" style="display: block; margin-left: auto; margin-right: auto; border: 7px solid #ddd; border-radius: 4px; ">
+</div>
+<div class="col three caption">
+  In this project we focus on understanding the strengths and weaknesses of different selection schemes.
+</div>
 
 Each selection scheme of interest is evaluated against the set of diagnostics, where the set of diagnostics may change as new optimization problem characteristics are discovered.
 This in turn gives us a *profile* for each selection scheme, where a profile presents information to the reader about the kinds of optimization problems a selections scheme will perform well against.

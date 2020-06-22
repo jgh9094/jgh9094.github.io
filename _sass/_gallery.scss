@@ -11,10 +11,11 @@ figcaption {
     background: $theme-color;
 }
 .img_row {
-    /*height: $img-height;*/
+    height: 100%;
     width: 100%;
     overflow: hidden;
     box-sizing:border-box;
+    // background-color: lightblue;
 }
 .col {
     width: 100%;
