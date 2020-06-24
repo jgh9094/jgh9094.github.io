@@ -2,14 +2,14 @@
 layout: page
 permalink: /outreach/
 title: outreach
-description: "Because I am fortunate to have found amazing mentors, friends, and teachers on my journey: without them, I don't think I'd be in my current position. One of my personal goals is to conduct novel research, and find ways to give back."
+description: "I am fortunate to have met amazing mentors and friends on my journey, and without them, I don't think I'd be in my current position. Hence, I think giving back is important."
 ---
-
-
 
 ---
 ### Outreach & Mentorship
 ---
+<i class="fas fa-star"></i>
+
 
 <p> <font size="+1.5">
 <b class = 'bold' >Girls Who Code, Michigan State University</b>
@@ -18,7 +18,7 @@ Student mentor, supervisor: Teresa Isela VanderSloot
 <br>
 <i>Spring 2019, Spring 2020</i>
 <br>
-Helped teach an estimated 30 high school students different topics in computer science: code development, web development, and problem solving.
+Helped teach an estimated 30 high school students different topics in computer science regarding code development, web development, and problem solving.
 Along with teaching, I also helped a group of students on their final project website that would be presented to the class and visiting families on the last day.
 </font> </p>
 
@@ -29,8 +29,8 @@ Student mentor (2019) & activity leader (2020), supervisor: Teresa Isela VanderS
 <br>
 <i>Spring 2019 & Spring 2020</i>
 <br>
-Volunteered to lead a small group activities for participants and their families, where participants ranged from 6th through 12th grade.
-I worked with five other volunteers, and together we helped participants play with remote controlled driving robots.
+Volunteered to lead a small group activity for participants that ranged from 6th through 12th grade and their families.
+I worked with five other volunteers, and together we helped participants play and interact with remote controlled driving robots.
 Along with this, we gave a presentation on the importance of robotics and women in engineering.
 </font> </p>
 
@@ -46,14 +46,14 @@ Along with teaching, I also helped students on their final project that consiste
 </font> </p>
 
 <p> <font size="+1.5">
-<b class = 'bold' >Engineering and Science SuccessAcademy (ESSA), Michigan State University</b>
+<b class = 'bold' >Engineering and Science Success Academy (ESSA), Michigan State University</b>
 <br>
 Student mentor, supervisor: Yolanda Anderson
 <br>
 <i>Summer 2018</i>
 <br>
-Helped teach an estimated 20 incoming freshman a computer science curriculum developed from the Google Computer Science Summer Institute (CSSI).
-The curriculum covered topics from the Google Cloud Platform, databases, and web development.
+Helped teach an estimated 20 incoming freshman a computer science curriculum from the Google Computer Science Summer Institute (CSSI).
+The curriculum covered topics from Google Cloud Platform, databases, and web development.
 Along with teaching, I also helped students on their final project website that would be presented to the class and visiting families on the last day.
 </font> </p>
 
@@ -76,8 +76,12 @@ Student mentor, supervisor: Juan Flores
 <i>Spring 2018</i>
 <br>
 Helped mentor incoming Latinx freshman by providing myself as a resource.
-I was also paired with an individual student, and am proud to say the student if flourishing.
+I was also paired with an individual student, who I had more constant contact with.
 </font> </p>
+
+---
+### Service
+---
 
 <p> <font size="+1.5">
 <b class = 'bold' >College Assistance Migrant Program (CAMP), Michigan State University</b>
@@ -86,29 +90,21 @@ Volunteer tutor, supervisor: Aleida Martinez
 <br>
 <i>Fall 2015</i>
 <br>
-Helped tutor CAMP freshman on all different mathematic courses.
+Helped tutor CAMP freshman on different mathematics courses.
 </font> </p>
-
----
-### Service
----
 
 <p> <font size="+1.5">
 <b class = 'bold' > Contemporary Greece and Turkey Study Abroad, Lesvos, Greece</b>
 <br>
-Student participant, supervisor: Brandon Mullen & Sophia Koufopoulou
-<br>
 <i>Summer 2015</i>
 <br>
-While this was a study abroad not intended to focus on community service, the reality was that this was during the refugee crisis.
+This study abroad not intended to focus on community service, but we were there during the 2015 refugee crisis.
 A group of students collaborated to gather resources (clothing, hygiene products, money) for the incoming refugees.
-Also helped local organizations dedicated to helping refugees.
+We also supported local organizations with their efforts.
 </font> </p>
 
 <p> <font size="+1.5">
 <b class = 'bold' > International Engagement in Mexico Study Abroad, Puebla, Mexico</b>
-<br>
-Site leader , supervisor: Juan Flores
 <br>
 <i>Spring Break 2015</i>
 <br>
@@ -140,8 +136,6 @@ We were responsible for helping with the day-to-day activities and provide suppo
 <p> <font size="+1.5">
 <b class = 'bold' > International Engagement in Mexico Study Abroad, Merida, Mexico</b>
 <br>
-Volunteer , supervisor: Juan
-<br>
 <i>Spring Break 2014</i>
 <br>
 Spent spring break in Mexico helping clean a facility for an organization that dedicated itself to caring for the abandoned elderly.
@@ -158,15 +152,11 @@ Intercultural Aide, supervisor: Maggie Chen-Hernandez
 <br>
 <i> Fall 2014, Spring 2015, Fall 2015</i>
 <br>
-As an intercultural aide, I focused on providing a welcoming, safe, and comfortable community for an estimated 200 assigned dormitory residents; while working with other intercultural aides and resident assistants.
-Our combined efforts led to higher retention rates within the university through one-on-one conversation, implementing campus & external events, and other special initiatives.
-<br> <br>
-A priority for intercultural aides was to spend more time with students the university deemed as at risk.
-This meant that more providing myself more as a direct mentor to these students.
-It was amazing to see these scholars graduate, as I have been at Michigan State University long enough to see this happen.
-<br> <br>
-Along with this, intercultural aides were responsible for planning round table discussions about controversial issues in an open and safe environment for participants.
-This required us to be culturally and socially aware, and we achieved this by constantly reading literature provided by staff on these topics.
+Aside from the description given in <a class="page-link" href="{{ '/cv/' | prepend: site.baseurl | prepend: site.url }}">cv</a>, a subset of students deemed by the university as at risk were a priority for intercultural aides.
+This meant that more one-on-one interactions and follow ups were needed with these students.
+Along with this, intercultural aides were responsible for hosting round table discussions about controversial issues in an open and safe environment for participants.
+This required intercultural aides to be culturally and socially aware, and this was achieved by constantly keeping up to date with literature and content provided by the supervisors.
+There were also multiple trips to partake in community service activities with different organizations in the Lansing area.
 </font> </p>
 
 ---

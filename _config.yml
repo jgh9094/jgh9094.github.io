@@ -37,7 +37,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to contact me is via email or twitter.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -51,6 +51,7 @@ blog_description: a simple whitespace theme for academics
 paginate: 4
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
+future: true
 
 text:
   pagination:

@@ -17,14 +17,13 @@ news: true
 social: true
 ---
 
-I am currently a first-generation Latino doctoral student working with Dr. Charles Ofria at [Michigan State University](https://msu.edu/) in the departments of [Computer Science and Engineering](http://cse.msu.edu/) and [Ecology, Evolutionary Biology, & Behavior](https://eebb.natsci.msu.edu/).
+I am currently a doctoral student working with [Dr. Charles Ofria](https://ofria.com/) at [Michigan State University](https://msu.edu/) in the departments of [Computer Science and Engineering](http://cse.msu.edu/) and [Ecology, Evolutionary Biology, & Behavior](https://eebb.natsci.msu.edu/).
 My interests fall at the intersection of computer science and evolutionary biology --- evolutionary computation.
-Broadly, my research focuses on the analysis, enhancements, and applications of different evolutionary algorithms.
+Broadly, my research focuses on the analysis and applications of different evolutionary algorithms.
 Check out [research](https://jgh9094.github.io/research/) for more information on my research interests and projects.
 
-As an aspiring doctoral student, it is easy to be consumed by research but I believe there's more to being a well rounded doctoral student than just research.
-I enjoy participating in activities outside of research, some of which include outreach, mentoring, cooking, and even *'athletically'* playing different sports!
-Too hear more about my story, please check out this this [post-TODO](./).
+Aside from being a hardworking graduate student, I also enjoy participating in activities outside of research, some of which include outreach, mentoring, cooking, and even *'athletically'* playing different sports!
+Too hear more about my story, please check out this this [post-TODO](./) on my blog!
 
 Affiliations
 ----
