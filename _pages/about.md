@@ -6,7 +6,7 @@ subtitle: Postdoctoral Scientist for the <a href='https://www.cedars-sinai.edu/r
 
 profile:
   align: right
-  image: my_pics/me.jpg
+  image: my_pics/me.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>Cedars-Sinai Medical Center</p>
